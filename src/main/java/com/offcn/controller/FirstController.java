@@ -84,4 +84,21 @@ public class FirstController {
         return "showFunc";
     }
 
+
+
+    public void fenzhi(){
+        System.out.println("B1");
+    }
+
+
+    public void fenzhi111(){
+        System.out.println("B1111");
+    }
+
+
+
+    public void fenzhi222(){
+        System.out.println("B2222");
+    }
+
 }
